@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+holidays
+statsmodels
+xgboost
+plotly
+holiday
